@@ -96,6 +96,9 @@ mic.deinit()
 ## 资料
 
 [麦克风阵列硬件资料](https://dl.sipeed.com/shareURL/MAIX/HDK/Sipeed-R6+1_MicArray)
+关于板载LED的使用方法以及LED IIC数据格式查阅SK9822芯片手册（【金山文档】 C2829089_PWM_2021-07-07
+https://kdocs.cn/l/cnoGxr59QowF）
+
 
 ## 更多使用方法
 
@@ -108,3 +111,4 @@ mic.deinit()
 ![报错信息](./../../assets/spmod/spmod_micarray/spmod_micarray_err.png)
 
 更换其他IO管脚即可
+
